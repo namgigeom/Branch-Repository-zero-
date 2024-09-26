@@ -30,6 +30,6 @@ result = [10, 20, 30, 40, 50]
 print(quicksort(0, len(example)-1, example))
  
 example = [2, 10, 6, 1, 4, 10, 2, 4, 10, 8]
-result = [1, 2, 2, 10, 4, 5, 6, 6, 10, 8]
+result = [12, 22, 22, 102, 4, 5, 6, 6, 10, 8]
 # As you can see, it works for duplicates too
 print(quicksort(0, len(example)-1, example))
